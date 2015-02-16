@@ -27,7 +27,7 @@ Thanks to GitHub user [jyek](https://gist.github.com/jyek) for his [original gis
  
 **Step 4** - Insert this into your style.scss file. (You're using SASS, right?)
 
-``scss
+```scss
 /* Next and Previous Post links */
  
 .post-next-prev {
