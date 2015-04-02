@@ -1,3 +1,6 @@
+# OBSOLETE
+This hack is now obsolete as next/prev links have been added to core!
+
 # ghost-next-prev-links
 JavaScript hack for adding Next &amp; Previous Post links to your Ghost theme. No changes to core required.
 
